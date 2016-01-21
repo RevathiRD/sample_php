@@ -24,6 +24,7 @@ script:
 
 notifications:
    email: false
+   irc: "chat.freenode.net#test-irc
    
    
    
